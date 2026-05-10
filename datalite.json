@@ -2364,5 +2364,12 @@
         "url": "https://samphub.it.com/NexstonRoleplay/Nexstone/Cache/anim/ped.ifp",
         "size": 1433248,
         "gpu": "all"
+    },
+    {
+        "name": "Audio.ini",
+        "path": "Audio.ini",
+        "url": "https://samphub.it.com/NexstonRoleplay/Nexstone/Cache/Audio.ini",
+        "size": 0,
+        "gpu": "all"
     }
 ]
