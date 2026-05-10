@@ -2311,27 +2311,6 @@
             "gpu": "pvr"
         },
         {
-            "name": "txd.txd.dat",
-            "size": "7625578",
-            "path": "texdb\/txd\/txd.txd.dat",
-            "url": "https:\/\/samphub.it.com\/NexstonRoleplay\/Nexstone\/Cache\/texdb\/txd\/txd.txd.dat",
-            "gpu": "all"
-        },
-        {
-            "name": "txd.txd.tmb",
-            "size": "31028",
-            "path": "texdb\/txd\/txd.txd.tmb",
-            "url": "https:\/\/samphub.it.com\/NexstonRoleplay\/Nexstone\/Cache\/texdb\/txd\/txd.txd.tmb",
-            "gpu": "all"
-        },
-        {
-            "name": "txd.txd.toc",
-            "size": "2376",
-            "path": "texdb\/txd\/txd.txd.toc",
-            "url": "https:\/\/samphub.it.com\/NexstonRoleplay\/Nexstone\/Cache\/texdb\/txd\/txd.txd.toc",
-            "gpu": "all"
-        },
-        {
             "name": "txd.txt",
             "size": "43193",
             "path": "texdb\/txd\/txd.txt",
@@ -2344,6 +2323,27 @@
             "path": "texdb\/txd\/txd.unc.tmb",
             "url": "https:\/\/samphub.it.com\/NexstonRoleplay\/Nexstone\/Cache\/texdb\/txd\/txd.unc.tmb",
             "gpu": "all"
+        },
+        {
+            "name": "txd.dxt.dat",
+            "size": "7625578",
+            "path": "texdb\/txd\/txd.dxt.dat",
+            "url": "https:\/\/samphub.it.com\/NexstonRoleplay\/Nexstone\/Cache\/texdb\/txd\/txd.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "txd.dxt.tmb",
+            "size": "31028",
+            "path": "texdb\/txd\/txd.dxt.tmb",
+            "url": "https:\/\/samphub.it.com\/NexstonRoleplay\/Nexstone\/Cache\/texdb\/txd\/txd.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "txd.dxt.toc",
+            "size": "2376",
+            "path": "texdb\/txd\/txd.dxt.toc",
+            "url": "https:\/\/samphub.it.com\/NexstonRoleplay\/Nexstone\/Cache\/texdb\/txd\/txd.dxt.toc",
+            "gpu": "dxt"
         },
         {
             "name": "anim.img",
