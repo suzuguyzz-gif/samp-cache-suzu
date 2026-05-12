@@ -1,0 +1,13 @@
+{
+  "apk_url": "https://github.com/JAMESQWERTY0019/gayy/releases/download/%23game-data/app-game-release.apk",
+  "apk_version": "0.3",
+  "update_logs": [
+    "Fixed edit object crash issue.",
+    "Fixed chat position.",
+    "Fixed weapon switch isn't showing when aiming.",
+    "Fixed handling.",
+    "Temporarily removed /dradartouch.",
+    "Added adjustable kill list position."
+  ],
+  "game_status": true
+}
